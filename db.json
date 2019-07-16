@@ -2,43 +2,42 @@
   "record": {
     "0": {
       "custId": 12345,
-      "firstName": "John",
-      "lastName": "Smith",
-      "age": "25",
-      "address": {
-        "streetAddress": "21 2nd Street",
-        "city": "New York",
-        "state": "NY",
-        "postalCode": "10021"
-      },
-      "phoneNumber": [
-        {
-          "home": "212 555-1234"
-        },
-        {
-          "fax": "646 555-4567"
-        }
-      ]
+      "transaction": {
+        "id": "40ed4472-16be-4db6-806c-39e297257f87",
+        "ts": "2019-07-16T01:32:12+0000",
+        "atm": "400",
+        "type": "Withdrawl",
+        "amount": 1000,
+        "currency": "USD",
+        "lat": "35.7678757",
+        "lon": "-78.7839648"
+      }
     },
     "1": {
-      "custId": 12346,
-      "firstName": "Sally",
-      "lastName": "Adams",
-      "age": "20",
-      "address": {
-        "streetAddress": "421 Fayetteville St",
-        "city": "Raleigh",
-        "state": "NC",
-        "postalCode": "27601"
-      },
-      "phoneNumber": [
-        {
-          "home": "919 555-1234"
-        },
-        {
-          "fax": "919 555-4567"
-        }
-      ]
+      "custId": 12345,
+      "transaction": {
+        "id": "59dd37ee-0854-4f95-b81b-e651c7c0d94d",
+        "ts": "2019-07-16T08:00:55+0000",
+        "atm": "405",
+        "type": "Withdrawl",
+        "amount": 1000,
+        "currency": "USD",
+        "lat": "35.7883109",
+        "lon": "-78.8312254"
+      }
+    },
+    "2": {
+      "custId": 12345,
+      "transaction": {
+        "id": "9a3310cb-b7eb-432a-b2e3-bbdb89304298",
+        "ts": "2019-07-16T12:15:30+0000",
+        "atm": "450",
+        "type": "Withdrawl",
+        "amount": 1000,
+        "currency": "USD",
+        "lat": "35.9210234",
+        "lon": "-79.0743104"
+      }
     }
   }
 }
