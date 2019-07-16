@@ -1,16 +1,15 @@
 {
   "record": {
-    "0": {
-      "custId": 12345,
-      "transaction": {
-        "transactionId": "40ed4472-16be-4db6-806c-39e297257f87",
-        "ts": "2019-07-15 23:18:14.150000+00:00",
-        "atm": "400",
-        "type": "Withdrawal",
-        "amount": 1000,
-        "currency": "USD",
-        "lat": "35.7678757",
-        "lon": "-78.7839648"
-      }
+    "custId": 12345,
+    "transaction": {
+      "transactionId": "40ed4472-16be-4db6-806c-39e297257f87",
+      "ts": "2019-07-15 23:18:14.150000+00:00",
+      "atm": "400",
+      "type": "Withdrawal",
+      "amount": 1000,
+      "currency": "USD",
+      "lat": "35.7678757",
+      "lon": "-78.7839648"
     }
+  }
 }
