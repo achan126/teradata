@@ -3,9 +3,9 @@
       "custId": 22222,
       "transaction": {
         "transactionId": "e88a52ea-39b9-4528-9ac5-20522ab86a32",
-        "ts": "2019-07-15 16:45:11.110000+00:00",
+        "ts": "2019-07-16 16:45:11.110000+00:00",
         "atm": "500",
-        "type": "Withdrawal",
+        "type": "Deposit",
         "amount": 100,
         "currency": "USD",
         "lat": "35.9210234",
