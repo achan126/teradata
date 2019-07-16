@@ -12,58 +12,5 @@
         "lat": "35.7678757",
         "lon": "-78.7839648"
       }
-    },
-    "1": {
-      "custId": 12345,
-      "transaction": {
-        "transactionId": "59dd37ee-0854-4f95-b81b-e651c7c0d94d",
-        "ts": "2019-07-15 22:23:05.220000+00:00",
-        "atm": "405",
-        "type": "Withdrawal",
-        "amount": 1000,
-        "currency": "USD",
-        "lat": "35.7883109",
-        "lon": "-78.8312254"
-      }
-    },
-    "2": {
-      "custId": 12345,
-      "transaction": {
-        "transactionId": "9a3310cb-b7eb-432a-b2e3-bbdb89304298",
-        "ts": "2019-07-15 18:15:22.110000+00:00",
-        "atm": "450",
-        "type": "Withdrawal",
-        "amount": 1000,
-        "currency": "USD",
-        "lat": "35.9210234",
-        "lon": "-79.0743104"
-      }
-    },
-    "3": {
-      "custId": 56789,
-      "transaction": {
-        "transactionId": "8eb49dbc-c2ec-47e3-b488-76534a16f20b",
-        "ts": "2019-07-15 17:00:05.220000+00:00",
-        "atm": "674",
-        "type": "Withdrawal",
-        "amount": 1250,
-        "currency": "USD",
-        "lat": "35.7883109",
-        "lon": "-78.8312254"
-      }
-    },
-    "4": {
-      "custId": 22222,
-      "transaction": {
-        "transactionId": "e88a52ea-39b9-4528-9ac5-20522ab86a32",
-        "ts": "2019-07-15 16:45:11.110000+00:00",
-        "atm": "500",
-        "type": "Withdrawal",
-        "amount": 100,
-        "currency": "USD",
-        "lat": "35.9210234",
-        "lon": "-79.0743104"
-      }
     }
-  }
 }
