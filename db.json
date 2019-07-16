@@ -3,7 +3,7 @@
     "0": {
       "custId": 12345,
       "transaction": {
-        "id": "40ed4472-16be-4db6-806c-39e297257f87",
+        "transactionId": "40ed4472-16be-4db6-806c-39e297257f87",
         "ts": "2019-07-16T01:32:12+0000",
         "atm": "400",
         "type": "Withdrawal",
@@ -16,7 +16,7 @@
     "1": {
       "custId": 12345,
       "transaction": {
-        "id": "59dd37ee-0854-4f95-b81b-e651c7c0d94d",
+        "transactionId": "59dd37ee-0854-4f95-b81b-e651c7c0d94d",
         "ts": "2019-07-16T08:00:55+0000",
         "atm": "405",
         "type": "Withdrawal",
@@ -29,7 +29,7 @@
     "2": {
       "custId": 12345,
       "transaction": {
-        "id": "9a3310cb-b7eb-432a-b2e3-bbdb89304298",
+        "transactionId": "9a3310cb-b7eb-432a-b2e3-bbdb89304298",
         "ts": "2019-07-16T12:15:30+0000",
         "atm": "450",
         "type": "Withdrawal",
