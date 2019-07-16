@@ -37,7 +37,8 @@
         "currency": "USD",
         "lat": "35.9210234",
         "lon": "-79.0743104"
-      },
+      }
+    },
     "3": {
       "custId": 56789,
       "transaction": {
