@@ -4,9 +4,9 @@
       "transaction": {
         "transactionId": "9803d9be-84fd-435f-9bd9-db28271743ab",
         "ts": "2019-07-18 10:10:11.110000+00:00",
-        "atm": "500",
+        "atm": "674",
         "type": "Withdrawal",
-        "amount": 800,
+        "amount": 1300,
         "currency": "USD",
         "lat": "35.9210234",
         "lon": "-79.0743104"
