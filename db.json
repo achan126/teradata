@@ -2,11 +2,11 @@
   "record": {
       "custId": 12345,
       "transaction": {
-        "transactionId": "4924f447-0eed-4c79-8890-158f663556bf",
-        "ts": "2019-07-17 22:45:11.110000+00:00",
+        "transactionId": "e0330dd6-ffc0-4891-9f8d-d5d2ce6453e1",
+        "ts": "2019-07-18 10:00:11.110000+00:00",
         "atm": "500",
         "type": "Withdrawal",
-        "amount": 100,
+        "amount": 200,
         "currency": "USD",
         "lat": "35.9210234",
         "lon": "-79.0743104"
