@@ -1,27 +1,4 @@
 {
-  "19292": [
-    {
-      "CUST_ID": 19292,
-      "GNDR_TYPE_CD": "X",
-      "FRST_NAME": "Rafaela",
-      "MDL_NAME": "Juliana",
-      "LAST_NAME": "Silva",
-      "ADDR_SBTYPE_CD": "HOME",
-      "ADDR_LN_1_TXT": "409 Snuff Mill Road TX Blanco 78606",
-      "ADDR_LN_2_TXT": "NULL",
-      "ADDR_LN_3_TXT": "NULL",
-      "ADDR_LN_4_TXT": "NULL",
-      "ST_OR_PROV_CD": "TX",
-      "CITY_NAME": "Blanco",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
-      "POSTL_CD": 78606,
-      "TLPHN_E164_NUM": "+19092856053",
-      "TLPHN_CTRY_CD_NUM": "+1",
-      "ELCTRNC_ADDR_TXT": "NULL",
-      "ELEC_ADDR_SBTYPE_CD": "NULL"
-    }
-  ],
   "19293": [
     {
       "CUST_ID": 19293,
