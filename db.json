@@ -2,41 +2,45 @@
   {
     "CUST_ID": 19316,
     "GNDR_TYPE_CD": "M",
-    "FRST_NAME": "Lucas",
-    "MDL_NAME": "Fabio",
-    "LAST_NAME": "Pena",
+    "NAME": {
+      "FRST_NAME": "Lucas",
+      "MDL_NAME": "Fabio",
+      "LAST_NAME": "Pena"
+    },
     "ADDRESS": {
       "ADDR_SBTYPE_CD": "HOME",
       "ADDR_LN_1_TXT": "1776 Hyde Street",
       "ST_OR_PROV_CD": "OK",
       "CITY_NAME": "Disney",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
       "POSTL_CD": 74340
     },
-    "TLPHN_E164_NUM": "+15099079977",
-    "TLPHN_CTRY_CD_NUM": "+1",
-    "ELCTRNC_ADDR_TXT": "NULL",
-    "ELEC_ADDR_SBTYPE_CD": "NULL"
+    "CONTACT": {
+      "TLPHN_E164_NUM": "+15099079977",
+      "TLPHN_CTRY_CD_NUM": "+1",
+      "ELCTRNC_ADDR_TXT": "NULL",
+      "ELEC_ADDR_SBTYPE_CD": "NULL"
+    }
   },
   {
     "CUST_ID": 19344,
     "GNDR_TYPE_CD": "F",
-    "FRST_NAME": "Charlotte",
-    "MDL_NAME": "Ella",
-    "LAST_NAME": "King",
+    "NAME": {
+      "FRST_NAME": "Charlotte",
+      "MDL_NAME": "Ella",
+      "LAST_NAME": "King"
+    },
     "ADDRESS": {
       "ADDR_SBTYPE_CD": "HOME",
       "ADDR_LN_1_TXT": "3056 Mission St.",
       "ST_OR_PROV_CD": "PA",
       "CITY_NAME": "Marchand",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
       "POSTL_CD": 15758
     },
-    "TLPHN_E164_NUM": "+17602290754",
-    "TLPHN_CTRY_CD_NUM": "+1",
-    "ELCTRNC_ADDR_TXT": "charlotte.king@teratitan.com",
-    "ELEC_ADDR_SBTYPE_CD": "BA"
+    "CONTACT": {
+      "TLPHN_E164_NUM": "+17602290754",
+      "TLPHN_CTRY_CD_NUM": "+1",
+      "ELCTRNC_ADDR_TXT": "charlotte.king@teratitan.com",
+      "ELEC_ADDR_SBTYPE_CD": "BA"
+    }
   }
 ]
