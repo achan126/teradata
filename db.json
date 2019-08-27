@@ -1,27 +1,4 @@
 {
-  "19293": [	
-    {	
-      "CUST_ID": 19293,	
-      "GNDR_TYPE_CD": "F",	
-      "FRST_NAME": "Jing",	
-      "MDL_NAME": "Mae",	
-      "LAST_NAME": "Wu",	
-      "ADDR_SBTYPE_CD": "HOME",	
-      "ADDR_LN_1_TXT": "4508 Curtis Mill Road WY Alpine 83128",	
-      "ADDR_LN_2_TXT": "NULL",	
-      "ADDR_LN_3_TXT": "NULL",	
-      "ADDR_LN_4_TXT": "NULL",	
-      "ST_OR_PROV_CD": "WY",	
-      "CITY_NAME": "Alpine",	
-      "COUNTY": "NULL",	
-      "CTRY_ID": 840,	
-      "POSTL_CD": 83128,	
-      "TLPHN_E164_NUM": "+13074045188",	
-      "TLPHN_CTRY_CD_NUM": "+1",	
-      "ELCTRNC_ADDR_TXT": "jing.wu@teratitan.com",	
-      "ELEC_ADDR_SBTYPE_CD": "BA"	
-    }	
-  ],
   "19298": [
     {
       "CUST_ID": 19298,
