@@ -1,38 +1,15 @@
-[
-  {
-    "CUST_ID": 19316,
-    "GNDR_TYPE_CD": "M",
-    "FRST_NAME": "Lucas",
-    "MDL_NAME": "Fabio",
-    "LAST_NAME": "Pena",
-    "ADDR_SBTYPE_CD": "HOME",
-    "ADDR_LN_1_TXT": "1776 Hyde Street",
-    "ST_OR_PROV_CD": "OK",
-    "CITY_NAME": "Disney",
-    "COUNTY": "NULL",
-    "CTRY_ID": 840,
-    "POSTL_CD": 74340,
-    "TLPHN_E164_NUM": "+15099079977",
-    "TLPHN_CTRY_CD_NUM": "+1",
-    "ELCTRNC_ADDR_TXT": "NULL",
-    "ELEC_ADDR_SBTYPE_CD": "NULL"
-  },
-  {
-    "CUST_ID": 19344,
-    "GNDR_TYPE_CD": "F",
-    "FRST_NAME": "Charlotte",
-    "MDL_NAME": "Ella",
-    "LAST_NAME": "King",
-    "ADDR_SBTYPE_CD": "HOME",
-    "ADDR_LN_1_TXT": "3056 Mission St.",
-    "ST_OR_PROV_CD": "PA",
-    "CITY_NAME": "Marchand",
-    "COUNTY": "NULL",
-    "CTRY_ID": 840,
-    "POSTL_CD": 15758,
-    "TLPHN_E164_NUM": "+17602290754",
-    "TLPHN_CTRY_CD_NUM": "+1",
-    "ELCTRNC_ADDR_TXT": "charlotte.king@teratitan.com",
-    "ELEC_ADDR_SBTYPE_CD": "BA"
+{
+  "record": {
+      "custId": 22222,
+      "transaction": {
+        "transactionId": "9803d9be-84fd-435f-9bd9-db28271743ab",
+        "ts": "2019-07-18 10:10:11.110000+00:00",
+        "atm": "674",
+        "type": "Withdrawal",
+        "amount": 1300,
+        "currency": "USD",
+        "lat": "35.9210234",
+        "lon": "-79.0743104"
+    }
   }
-]
+}
