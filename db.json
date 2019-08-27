@@ -1,6 +1,6 @@
 {
-  "record": {
-    "0": {
+  "updates": [
+    {
       "CUST_ID": 19316,
       "GNDR_TYPE_CD": "M",
       "FRST_NAME": "Lucas",
@@ -21,7 +21,7 @@
       "ELCTRNC_ADDR_TXT": "NULL",
       "ELEC_ADDR_SBTYPE_CD": "NULL"
     },
-    "1": {
+    {
       "CUST_ID": 19344,
       "GNDR_TYPE_CD": "F",
       "FRST_NAME": "Charlotte",
@@ -42,5 +42,5 @@
       "ELCTRNC_ADDR_TXT": "charlotte.king@teratitan.com",
       "ELEC_ADDR_SBTYPE_CD": "BA"
     }
-  }
+  ]
 }
