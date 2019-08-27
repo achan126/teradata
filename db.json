@@ -1,16 +1,20 @@
 {
-  "CUST_ID": 19316,
-  "PROFILE": {
-    "FRST_NAME": "Lucas",
-    "MDL_NAME": "Fabio",
-    "LAST_NAME": "Pena",
-    "GNDR_TYPE_CD": "M"
-  },
-  "ADDRESS": {
-    "ADDR_SBTYPE_CD": "HOME",
-    "ADDR_LN_1_TXT": "1776 Hyde Street",
-    "ST_OR_PROV_CD": "OK",
-    "CITY_NAME": "Disney",
-    "POSTL_CD": 74340
+  "record": {
+    "0": {
+      "CUST_ID": 19316,
+      "PROFILE": {
+        "FRST_NAME": "Lucas",
+        "MDL_NAME": "Fabio",
+        "LAST_NAME": "Pena",
+        "GNDR_TYPE_CD": "M"
+      },
+      "ADDRESS": {
+        "ADDR_SBTYPE_CD": "HOME",
+        "ADDR_LN_1_TXT": "1776 Hyde Street",
+        "ST_OR_PROV_CD": "OK",
+        "CITY_NAME": "Disney",
+        "POSTL_CD": 74340
+      }
+    }
   }
 }
