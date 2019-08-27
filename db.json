@@ -1,5 +1,5 @@
 {
-  "CUST_ID": [
+  "19316": [
     {
       "CUST_ID": 19316,
       "GNDR_TYPE_CD": "M",
@@ -20,7 +20,9 @@
       "TLPHN_CTRY_CD_NUM": "+1",
       "ELCTRNC_ADDR_TXT": "NULL",
       "ELEC_ADDR_SBTYPE_CD": "NULL"
-    },
+    }
+  ],
+  "19344": [
     {
       "CUST_ID": 19344,
       "GNDR_TYPE_CD": "F",
