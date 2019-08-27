@@ -2,19 +2,24 @@
   "record": {
     "0": {
       "CUST_ID": 19316,
-      "PROFILE": {
-        "FRST_NAME": "Lucas",
-        "MDL_NAME": "Fabio",
-        "LAST_NAME": "Pena",
-        "GNDR_TYPE_CD": "M"
-      },
-      "ADDRESS": {
-        "ADDR_SBTYPE_CD": "HOME",
-        "ADDR_LN_1_TXT": "1776 Hyde Street",
-        "ST_OR_PROV_CD": "OK",
-        "CITY_NAME": "Disney",
-        "POSTL_CD": 74340
-      }
+      "GNDR_TYPE_CD": "M",
+      "FRST_NAME": "Lucas",
+      "MDL_NAME": "Fabio",
+      "LAST_NAME": "Pena",
+      "ADDR_SBTYPE_CD": "HOME",
+      "ADDR_LN_1_TXT": "1776 Hyde Street OK Disney 74340",
+      "ADDR_LN_2_TXT": "NULL",
+      "ADDR_LN_3_TXT": "NULL",
+      "ADDR_LN_4_TXT": "NULL",
+      "ST_OR_PROV_CD": "OK",
+      "CITY_NAME": "Disney",
+      "COUNTY": "NULL",
+      "CTRY_ID": 840,
+      "POSTL_CD": 74340,
+      "TLPHN_E164_NUM": "+15099079977",
+      "TLPHN_CTRY_CD_NUM": "+1",
+      "ELCTRNC_ADDR_TXT": "NULL",
+      "ELEC_ADDR_SBTYPE_CD": "NULL"
     }
   }
 }
