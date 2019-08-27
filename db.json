@@ -1,4 +1,5 @@
-[
+{
+  "updates":[
   {
     "CUST_ID": 19316,
     "GNDR_TYPE_CD": "M",
@@ -42,3 +43,4 @@
     "ELEC_ADDR_SBTYPE_CD": "BA"
   }
 ]
+}
