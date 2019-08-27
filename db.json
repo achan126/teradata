@@ -390,29 +390,6 @@
       "ELEC_ADDR_SBTYPE_CD": "BA"
     }
   ],
-  "19348": [
-    {
-      "CUST_ID": 19348,
-      "GNDR_TYPE_CD": "M",
-      "FRST_NAME": "Arthur",
-      "MDL_NAME": "Felipe",
-      "LAST_NAME": "Gnomes",
-      "ADDR_SBTYPE_CD": "HOME",
-      "ADDR_LN_1_TXT": "6952 Curtis Mill Road AR Washington 71862",
-      "ADDR_LN_2_TXT": "NULL",
-      "ADDR_LN_3_TXT": "NULL",
-      "ADDR_LN_4_TXT": "NULL",
-      "ST_OR_PROV_CD": "AR",
-      "CITY_NAME": "Washington",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
-      "POSTL_CD": 71862,
-      "TLPHN_E164_NUM": "+13603674810",
-      "TLPHN_CTRY_CD_NUM": "+1",
-      "ELCTRNC_ADDR_TXT": "NULL",
-      "ELEC_ADDR_SBTYPE_CD": "NULL"
-    }
-  ],
   "19351": [
     {
       "CUST_ID": 19351,
@@ -433,29 +410,6 @@
       "TLPHN_E164_NUM": "+16507682643",
       "TLPHN_CTRY_CD_NUM": "+1",
       "ELCTRNC_ADDR_TXT": "leon.wolf@teratitan.com",
-      "ELEC_ADDR_SBTYPE_CD": "BA"
-    }
-  ],
-  "19352": [
-    {
-      "CUST_ID": 19352,
-      "GNDR_TYPE_CD": "M",
-      "FRST_NAME": "Ezequiel",
-      "MDL_NAME": "Santiago",
-      "LAST_NAME": "Gonzalez",
-      "ADDR_SBTYPE_CD": "HOME",
-      "ADDR_LN_1_TXT": "1226 Barley Mill Road KY Munfordville 42765",
-      "ADDR_LN_2_TXT": "NULL",
-      "ADDR_LN_3_TXT": "NULL",
-      "ADDR_LN_4_TXT": "NULL",
-      "ST_OR_PROV_CD": "KY",
-      "CITY_NAME": "Munfordville",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
-      "POSTL_CD": 42765,
-      "TLPHN_E164_NUM": "+19012092682",
-      "TLPHN_CTRY_CD_NUM": "+1",
-      "ELCTRNC_ADDR_TXT": "ezequiel.gonzalez@teratitan.com",
       "ELEC_ADDR_SBTYPE_CD": "BA"
     }
   ]
