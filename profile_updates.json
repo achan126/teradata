@@ -406,7 +406,7 @@
     "LAST_NAME": "Zhao",
     "ADDR_SBTYPE_CD": "HOME",
     "ADDR_LN_1_TXT": "5755 Barley Mill Road IA Fremont 52561",
-    "ADDR_LN_2_TXT": "NULL,
+    "ADDR_LN_2_TXT": "NULL",
     "ADDR_LN_3_TXT": "NULL",
     "ADDR_LN_4_TXT": "NULL",
     "ST_OR_PROV_CD": "IA",
