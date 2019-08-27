@@ -12,10 +12,5 @@
     "ST_OR_PROV_CD": "OK",
     "CITY_NAME": "Disney",
     "POSTL_CD": 74340
-  },
-  "CONTACT": {
-    "TLPHN_E164_NUM": "+1 509 907 9977",
-    "ELCTRNC_ADDR_TXT": "NULL",
-    "ELEC_ADDR_SBTYPE_CD": "NULL"
   }
 }
