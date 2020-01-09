@@ -1,117 +1,24 @@
 {
-  "19316": [
-    {
-      "CUST_ID": 19316,
-      "GNDR_TYPE_CD": "M",
-      "FRST_NAME": "Lucas",
-      "MDL_NAME": "Fabio",
-      "LAST_NAME": "Pena",
-      "ADDR_SBTYPE_CD": "HOME",
-      "ADDR_LN_1_TXT": "1776 Hyde Street OK Disney 74340",
-      "ADDR_LN_2_TXT": "NULL",
-      "ADDR_LN_3_TXT": "NULL",
-      "ADDR_LN_4_TXT": "NULL",
-      "ST_OR_PROV_CD": "OK",
-      "CITY_NAME": "Disney",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
-      "POSTL_CD": 74340,
-      "TLPHN_E164_NUM": "+15099079977",
-      "TLPHN_CTRY_CD_NUM": "+1",
-      "ELCTRNC_ADDR_TXT": "NULL",
-      "ELEC_ADDR_SBTYPE_CD": "NULL"
-    }
-  ],
-  "19322": [
-    {
-      "CUST_ID": 19322,
-      "GNDR_TYPE_CD": "M",
-      "FRST_NAME": "Dai",
-      "MDL_NAME": "Hai",
-      "LAST_NAME": "Sun",
-      "ADDR_SBTYPE_CD": "HOME",
-      "ADDR_LN_1_TXT": "9722 Music Concourse Dr. WV Naugatuck 25685",
-      "ADDR_LN_2_TXT": "NULL",
-      "ADDR_LN_3_TXT": "NULL",
-      "ADDR_LN_4_TXT": "NULL",
-      "ST_OR_PROV_CD": "WV",
-      "CITY_NAME": "Naugatuck",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
-      "POSTL_CD": 25685,
-      "TLPHN_E164_NUM": "+13306440836",
-      "TLPHN_CTRY_CD_NUM": "+1",
-      "ELCTRNC_ADDR_TXT": "dai.sun@teratitan.com",
-      "ELEC_ADDR_SBTYPE_CD": "BA"
-    }
-  ],
-  "19332": [
-    {
-      "CUST_ID": 19332,
-      "GNDR_TYPE_CD": "M",
-      "FRST_NAME": "Enzo",
-      "MDL_NAME": "Romain",
-      "LAST_NAME": "Lefebvre",
-      "ADDR_SBTYPE_CD": "HOME",
-      "ADDR_LN_1_TXT": "9113 Music Concourse Dr. CO Littleton 80162",
-      "ADDR_LN_2_TXT": "NULL",
-      "ADDR_LN_3_TXT": "NULL",
-      "ADDR_LN_4_TXT": "NULL",
-      "ST_OR_PROV_CD": "CO",
-      "CITY_NAME": "Littleton",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
-      "POSTL_CD": 80162,
-      "TLPHN_E164_NUM": "+13035295346",
-      "TLPHN_CTRY_CD_NUM": "+1",
-      "ELCTRNC_ADDR_TXT": "enzo.lefebvre@teratitan.com",
-      "ELEC_ADDR_SBTYPE_CD": "BA"
-    }
-  ],
-  "19339": [
-    {
-      "CUST_ID": 19339,
-      "GNDR_TYPE_CD": "M",
-      "FRST_NAME": "Maximilian",
-      "MDL_NAME": "Lucas",
-      "LAST_NAME": "Dubois",
-      "ADDR_SBTYPE_CD": "HOME",
-      "ADDR_LN_1_TXT": "2821 Chestnut St.z WI Racine 53407",
-      "ADDR_LN_2_TXT": "NULL",
-      "ADDR_LN_3_TXT": "NULL",
-      "ADDR_LN_4_TXT": "NULL",
-      "ST_OR_PROV_CD": "WI",
-      "CITY_NAME": "Racine",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
-      "POSTL_CD": 53407,
-      "TLPHN_E164_NUM": "+19165605456",
-      "TLPHN_CTRY_CD_NUM": "+1",
-      "ELCTRNC_ADDR_TXT": "maximilian.dubois@teratitan.com",
-      "ELEC_ADDR_SBTYPE_CD": "BA"
-    }
-  ],
-  "19344": [
-    {
-      "CUST_ID": 19344,
-      "GNDR_TYPE_CD": "F",
-      "FRST_NAME": "Charlotte",
-      "MDL_NAME": "Ella",
-      "LAST_NAME": "King",
-      "ADDR_SBTYPE_CD": "HOME",
-      "ADDR_LN_1_TXT": "3056 Mission St. PA Marchand 15758",
-      "ADDR_LN_2_TXT": "NULL",
-      "ADDR_LN_3_TXT": "NULL",
-      "ADDR_LN_4_TXT": "NULL",
-      "ST_OR_PROV_CD": "PA",
-      "CITY_NAME": "Marchand",
-      "COUNTY": "NULL",
-      "CTRY_ID": 840,
-      "POSTL_CD": 15758,
-      "TLPHN_E164_NUM": "+17602290754",
-      "TLPHN_CTRY_CD_NUM": "+1",
-      "ELCTRNC_ADDR_TXT": "charlotte.king@teratitan.com",
-      "ELEC_ADDR_SBTYPE_CD": "BA"
-    }
-  ]
+    "Inputs": {
+        "input1": [
+            {
+                "age": 30,
+                "workclass": "",
+                "fnlwgt": 77516,
+                "education": "Bachelors",
+                "education-num": 13,
+                "marital-status": "",
+                "occupation": "Sales",
+                "relationship": "Husband",
+                "race": "White",
+                "sex": "Male",
+                "capital-gain": null,
+                "capital-loss": 250,
+                "hours-per-week": 40,
+                "native-country": "United-States",
+                "income": ""
+            }
+        ]
+    },
+    "GlobalParameters": {}
 }
