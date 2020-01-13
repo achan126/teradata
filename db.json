@@ -1,24 +1,61 @@
 {
-    "Inputs": {
-        "input1": [
-            {
-                "age": 30,
-                "workclass": "",
-                "fnlwgt": 77516,
-                "education": "Bachelors",
-                "education-num": 13,
-                "marital-status": "",
-                "occupation": "Sales",
-                "relationship": "Husband",
-                "race": "White",
-                "sex": "Male",
-                "capital-gain": null,
-                "capital-loss": 250,
-                "hours-per-week": 40,
-                "native-country": "United-States",
-                "income": ""
-            }
-        ]
-    },
-    "GlobalParameters": {}
+  "Inputs": {
+    "input1": [
+      {
+        "Label": "1",
+        "transactionCurrencyCode - Class000_LogOdds": "5.166279",
+        "localHour - Class000_LogOdds": "4.461622",
+        "ipState - Class000_LogOdds": "4.116323",
+        "ipPostalCode - Class000_LogOdds": "2.079442",
+        "ipCountry - Class000_LogOdds": "5.132626",
+        "browserLanguage - Class000_LogOdds": "5.166234",
+        "paymentBillingPostalCode - Class000_LogOdds": "0.6466272",
+        "paymentBillingState - Class000_LogOdds": "3.794084",
+        "paymentBillingCountryCode - Class000_LogOdds": "5.141895",
+        "shippingPostalCode - Class000_LogOdds": "5.127748",
+        "shippingState - Class000_LogOdds": "5.127748",
+        "shippingCountry - Class000_LogOdds": "5.127748",
+        "accountPostalCode - Class000_LogOdds": "0.9444616",
+        "accountState - Class000_LogOdds": "3.429579",
+        "accountCountry - Class000_LogOdds": "5.164394",
+        "is_highAmount": "FALSE",
+        "acct_billing_address_mismatchFlag": "TRUE",
+        "acct_billing_postalCode_mismatchFlag": "FALSE",
+        "acct_billing_country_mismatchFlag": "TRUE",
+        "acct_billing_name_mismatchFlag": "TRUE",
+        "acct_shipping_address_mismatchFlag": "TRUE",
+        "acct_shipping_postalCode_mismatchFlag": "FALSE",
+        "acct_shipping_country_mismatchFlag": "FALSE",
+        "shipping_billing_address_mismatchFlag": "TRUE",
+        "shipping_billing_postalCode_mismatchFlag": "FALSE",
+        "shipping_billing_country_mismatchFlag": "FALSE",
+        "sumPurchaseAmount1Day": "0",
+        "sumPurchaseAmount30Day": "0",
+        "sumPurchaseCount1Day": "0",
+        "sumPurchaseCount30Day": "0",
+        "numPaymentRejects1Day": "0",
+        "accountID": "A1759222185351430",
+        "transactionAmountUSD": "79.99",
+        "transactionAmount": "79.99",
+        "transactionDate": "20130417",
+        "transactionTime": "125340",
+        "transactionType": "P",
+        "transactionMethod": "0",
+        "transactionDeviceType": "0",
+        "isProxyIP": "FALSE",
+        "browserType": "0",
+        "paymentInstrumentType": "CREDITCARD",
+        "cardType": "VISA",
+        "cardNumberInputMethod": "0",
+        "cvvVerifyResult": "M",
+        "responseCode": "0",
+        "digitalItemCount": "0",
+        "physicalItemCount": "1",
+        "purchaseProductType": "0",
+        "accountAge": "1",
+        "isUserRegistered": "FALSE",
+        "paymentInstrumentAgeInAccount": "0.000694444"
+      }
+    ]
+  }
 }
